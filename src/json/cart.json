@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Hamburguesa",
+      "quantity": 2,
+      "unitPrice": 1500
+    },
+    {
+      "name": "Gaseosa",
+      "quantity": 2,
+      "unitPrice": 1000
+    },
+    {
+      "name": "Empanadas JYQ",
+      "quantity": 6,
+      "unitPrice": 700
+    }
+  ]
+}
